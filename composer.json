@@ -1,7 +1,7 @@
 {
   "name": "lewebsimple/wp-minimal",
   "description": "Minimal WordPress project",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "type": "project",
   "license": "MIT",
   "repositories": [
